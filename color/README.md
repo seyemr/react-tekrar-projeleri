@@ -1,15 +1,7 @@
 # React + Vite
 
-<img src="/color/src/assets/color.mp4"/>
 
-[Element: color.mp4]
 
-<img src="/src/assets/color.mp4">
 
-![Alternate text](color.mp4)
+https://github.com/seyemr/react-tekrar-projeleri/assets/124307932/93d5ddec-8037-42af-93c1-7c3814e72a93
 
-![Alternate text][ref]
-
-...
-
-[ref]: color.mp4 "Optional title"
