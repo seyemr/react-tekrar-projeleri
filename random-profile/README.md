@@ -1,6 +1,6 @@
 # randomCardProfile
 
-
+https://github.com/seyemr/react-tekrar-projeleri/assets/124307932/aab45e12-5674-4cab-b721-e438793ae7e8
 
 # Kütüphaneler
 
