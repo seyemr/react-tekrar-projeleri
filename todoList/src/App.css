@@ -1,0 +1,81 @@
+body {
+  background-color: rgb(216, 147, 8);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+
+
+.todo {
+  display: grid;
+  justify-content: center;
+  gap: 10px;
+  margin-left: 10px;
+  max-width: 200px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.todo input {
+  max-width: 200px;
+  padding: 10px 30px;
+  border-radius: 4px;
+  border: none;
+  display: flex;
+  justify-content: center;
+}
+
+.todo .btn {
+  max-width: 200px;
+  padding: 8px;
+  border-radius: 6px;
+  background-color: yellow;
+  border: none;
+  cursor: pointer;
+  font-family: "Poppins";
+}
+
+.todo .btn:hover {
+  background-color: red;
+  color: white;
+}
+
+
+
+p {
+  background-color: brown;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 16px;
+  color: white;
+  align-items: center;
+  font-size: 20px;
+  border-radius: 6px;
+  border-bottom: 1px solid white;
+}
+
+.card p button {
+  border: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50px;
+  letter-spacing: 2px;
+  color: red;
+  font-size: 16px;
+  background-color: white;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.card p button:hover {
+  color: white;
+  background-color: red;
+}
