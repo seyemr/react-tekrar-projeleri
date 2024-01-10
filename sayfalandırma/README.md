@@ -1,5 +1,7 @@
 # React + Vite
 
+<img src="./src/assets/ezgif.com-video-to-gif-converter.gif">
+
 ![Uploading ezgif.com-video-to-gif-converter.gif…]()
 
 
